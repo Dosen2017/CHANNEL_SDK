@@ -24,7 +24,7 @@
  | time |  int |  Y |  当前时间 |
  | sign |  string |  Y |  签名 |
  
- info字段说明：
+ info字段说明：<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;device_id :设备ID<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;device_model : 设备模型<br/>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;mac : MAC<br/>
