@@ -5,7 +5,7 @@
 &emsp;&emsp;正式域名:`lzapi.lezhonggame.com`
 
 #### 请求方式
-&emsp;&emsp;** POST **
+&emsp;&emsp;**POST**
 
 #### 登录
 &emsp;&emsp;链接：`https://域名/login/IosLogin/login`
