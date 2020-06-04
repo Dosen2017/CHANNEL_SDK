@@ -14,9 +14,9 @@
 
 #### 登录
 &emsp;&emsp;链接：`https://域名/login/IosLogin/login` <br/>
-&emsp;&emsp;参数：channel_pkg_num    &emsp;&emsp;&emsp;&emsp;    渠道包ID  <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;info   &emsp;&emsp;&emsp;&emsp;             设备信息   示例：{"device_id":"fb9eec7f-6df7-2019-af5e-7ad7dfefd593", "device_model":"EVR-AL00", "mac":"74:ac:5f:9e:9f:bb", "bundle":"com.admin.tom", "version":"1.0.1"}<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;tokenkey &emsp;&emsp;&emsp;&emsp;          小七渠道账号值   <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;time &emsp;&emsp;&emsp;&emsp;          时间戳   <br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;sign &emsp;&emsp;&emsp;&emsp;          sign验签值 <br/>
+&emsp;&emsp;参数：`channel_pkg_num`    &emsp;&emsp;&emsp;&emsp;    渠道包ID  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;`info`   &emsp;&emsp;&emsp;&emsp;             设备信息   示例：{"device_id":"fb9eec7f-6df7-2019-af5e-7ad7dfefd593", "device_model":"EVR-AL00", "mac":"74:ac:5f:9e:9f:bb", "bundle":"com.admin.tom", "version":"1.0.1"}<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;`tokenkey` &emsp;&emsp;&emsp;&emsp;          小七渠道账号值   <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;`time` &emsp;&emsp;&emsp;&emsp;          时间戳   <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;`sign` &emsp;&emsp;&emsp;&emsp;          sign验签值 <br/>
  
