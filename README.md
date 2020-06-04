@@ -40,8 +40,9 @@
 
 #### 充值
 ##### 小七充值
+###### game_sign接口
 &emsp;&emsp;&emsp;&emsp;1.链接：`https://域名/recharge/orderXiaoqi`<br/>
-&emsp;&emsp;&emsp;&emsp;2.game_sign接口
+&emsp;&emsp;&emsp;&emsp;2.参数
 
  | 参数名   |      参数规格      | 必填   |      说明      |
  |----------|:-------------:|:-------------:|:-------------:|
