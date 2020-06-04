@@ -38,4 +38,20 @@
  |----------|:-------------:|:-------------:|:-------------:|
  | tokenkey |  string |  Y |  小七token值 |
 
- 
+#### 充值
+##### 小七充值
+&emsp;&emsp;&emsp;&emsp;1.game_sign接口
+| 参数名   |      参数规格      | 必填   |      说明      |
+ |----------|:-------------:|:-------------:|:-------------:|
+ | extends_info_data |  string |  Y |  扩展参数 |
+ | game_area |  string |  Y |  角色所在游戏区 |
+ | game_level |  string |  Y | 用户游戏中角色等级 |
+ | game_orderid |  string |  Y |  游戏订单号 |
+ | game_price |  string |  Y |  商品价格（使用元为单位） |
+ | game_role_id |  string |  Y |  用户游戏中角色 ID 信息 |
+ | game_role_name |  string |  Y |  用户游戏中角色名称 |
+ | game_guid |  string |  Y |  标识用户在小 7 平台中的唯一标识 |
+ | notify_id |  string |  Y |  回调通知的 id |
+ | subject |  string |  Y |  道具简介 |
+ | time |  int |  Y |  当前时间 |
+ | sign |  string |  Y |  签名 |
