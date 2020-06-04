@@ -23,6 +23,7 @@
  | tokenkey |  string |  Y |  小七token值 |
  | time |  int |  Y |  当前时间 |
  | sign |  string |  Y |  签名 |
+ 
 &emsp;&emsp;&emsp;&emsp;渠道参数： 
  | 参数名   |      参数规格      | 必填   |      说明      |
  | tokenkey |  string |  Y |  小七token值 |
