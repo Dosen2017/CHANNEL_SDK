@@ -15,7 +15,7 @@
 #### 登录
 &emsp;&emsp;链接：`https://域名/login/chlLogin/getAccount` <br/>
 &emsp;&emsp;参数：
-&emsp;&emsp;&emsp;&emsp;公共参数：
+&emsp;&emsp;&emsp;&emsp;1.公共参数：
  | 参数名   |      参数规格      | 必填   |      说明      |
  |----------|:-------------:|:-------------:|:-------------:|
  | channel_pkg_num |  int |  Y |  渠道ID |
@@ -24,8 +24,9 @@
  | time |  int |  Y |  当前时间 |
  | sign |  string |  Y |  签名 |
  
-&emsp;&emsp;&emsp;&emsp;渠道参数： 
+&emsp;&emsp;&emsp;&emsp;2.渠道参数： 
  | 参数名   |      参数规格      | 必填   |      说明      |
+ |----------|:-------------:|:-------------:|:-------------:|
  | tokenkey |  string |  Y |  小七token值 |
 
  
