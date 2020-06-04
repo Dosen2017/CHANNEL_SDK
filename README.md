@@ -24,6 +24,14 @@
  | time |  int |  Y |  当前时间 |
  | sign |  string |  Y |  签名 |
  
+ info字段说明：
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;device_id :设备ID
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;device_model : 设备模型
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;mac : MAC
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;bundle : 包ID
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;version : 工程版本号
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b_id : 包标识（非母包的安卓需要传入）
+ 
 &emsp;&emsp;&emsp;&emsp;2.渠道参数： 
  | 参数名   |      参数规格      | 必填   |      说明      |
  |----------|:-------------:|:-------------:|:-------------:|
