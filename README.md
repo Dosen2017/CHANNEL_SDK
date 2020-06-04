@@ -11,7 +11,7 @@
 &emsp;&emsp;1.除sign以外的参数，以键排序，值做urlencode 然后按下面示例拼串 <br/>
 &emsp;&emsp;&emsp;&emsp;示例：channel_pkg_num=880010402&password=999999&time=1523728323&user_name=Aa144e235skks&KEY<br/>
 &emsp;&emsp;2.对上面字符串进行md5加密 <br/>
-&emsp;&emsp;3.加密KEY:***<br/>
+&emsp;&emsp;3.加密KEY:*** <br/>
 
 #### 登录
 &emsp;&emsp;链接：`https://域名/login/chlLogin/getAccount` <br/>
@@ -25,12 +25,12 @@
  | sign |  string |  Y |  签名 |
  
  info字段说明：
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;device_id :设备ID
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;device_model : 设备模型
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;mac : MAC
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;bundle : 包ID
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;version : 工程版本号
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b_id : 包标识（非母包的安卓需要传入）
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;device_id :设备ID<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;device_model : 设备模型<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;mac : MAC<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;bundle : 包ID<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;version : 工程版本号<br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b_id : 包标识（非母包的安卓需要传入）<br/>
  
 &emsp;&emsp;&emsp;&emsp;2.渠道参数： 
  | 参数名   |      参数规格      | 必填   |      说明      |
