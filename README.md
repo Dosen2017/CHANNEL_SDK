@@ -18,7 +18,7 @@
  | 参数名   |      参数规格      | 必填   |      说明      |
  |----------|:-------------:|:-------------:|:-------------:|
  | channel_pkg_num |  int |  Y |  渠道ID |
- | info |  int |  Y |  设备信息 示例：{"device_id":"fb9eec7f-6df7-2019-af5e-7ad7dfefd593", "device_model":"EVR-AL00", "mac":"74:ac:5f:9e:9f:bb", "bundle":"com.admin.tom", "version":"1.0.1"}|
+ | info |  int |  Y |  设备信息 示例：{"device_id":"fb9eec7f-6df7-2019-af5e-7ad7dfefd593", "device_model":"EVR-AL00", "mac":"74:ac:5f:9e:9f:bb", "bundle":"com.admin.tom", "version":"1.0.1", "b_id":"hss_12aa"}|
  | tokenkey |  string |  Y |  小七token值 |
  | time |  int |  Y |  当前时间 |
  | sign |  string |  Y |  签名 |
