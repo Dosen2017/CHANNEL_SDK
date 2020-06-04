@@ -46,7 +46,7 @@
 
  | 参数名   |      参数规格      | 必填   |      说明      |
  |----------|:-------------:|:-------------:|:-------------:|
- | extends_info_data |  string |  Y |  扩展参数 |
+ | extends_info_data |  string |  Y |  扩展参数(channelPkgNum_orderId_os),示例：880010403_201255542254412566_1 |
  | game_area |  string |  Y |  角色所在游戏区 |
  | game_level |  string |  Y | 用户游戏中角色等级 |
  | game_orderid |  string |  Y |  游戏订单号 |
