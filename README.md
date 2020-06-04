@@ -40,8 +40,10 @@
 
 #### 充值
 ##### 小七充值
-&emsp;&emsp;&emsp;&emsp;1.game_sign接口
-| 参数名   |      参数规格      | 必填   |      说明      |
+&emsp;&emsp;&emsp;&emsp;1.链接：`https://域名/recharge/orderXiaoqi`<br/>
+&emsp;&emsp;&emsp;&emsp;2.game_sign接口
+
+ | 参数名   |      参数规格      | 必填   |      说明      |
  |----------|:-------------:|:-------------:|:-------------:|
  | extends_info_data |  string |  Y |  扩展参数 |
  | game_area |  string |  Y |  角色所在游戏区 |
