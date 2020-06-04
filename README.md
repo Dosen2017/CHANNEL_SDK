@@ -9,7 +9,7 @@
 
 #### 加密方式
 &emsp;&emsp;1.除sign以外的参数，以键排序，值做urlencode 然后按下面示例拼串 <br/>
-&emsp;&emsp;&emsp;&emsp;示例：channel_pkg_num=880010402&password=999999&time=1523728323&user_name=Aa144e235skks&KEY
+&emsp;&emsp;&emsp;&emsp;示例：channel_pkg_num=880010402&password=999999&time=1523728323&user_name=Aa144e235skks&KEY<br/>
 &emsp;&emsp;2.对上面字符串进行md5加密 <br/>
 &emsp;&emsp;3.加密KEY:***<br/>
 
